@@ -4,7 +4,7 @@ merge_sort_func
 *.exe
 *.out
 *.o
-
+*.vscode
 # OS generated files
 .DS_Store
 Thumbs.db
