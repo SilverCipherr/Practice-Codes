@@ -1,4 +1,10 @@
+# Executables
+merge_sort
+merge_sort_func
 *.exe
-*.o
 *.out
-*.vscode/
+*.o
+
+# OS generated files
+.DS_Store
+Thumbs.db
